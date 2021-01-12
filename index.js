@@ -336,7 +336,7 @@ if (text.includes('.map')){
 
 //Donasi
 if (text.includes('.donasi')){
-conn.sendMessage(id, `Mau donai agar bot bisa terus berjalan.
+conn.sendMessage(id, `Mau donasi agar bot bisa terus berjalan.
 
  اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ
 _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_
@@ -1408,7 +1408,7 @@ conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil\n_contoh : .bot 
 if (text.includes(".bot")){
 const teks = text.replace(/.bot /, "")
 axios.get(`https://st4rz.herokuapp.com/api/simsimi?kata=${teks}`).then((res) => {
-    let hasil = `${res.data.result}\n\n*Simsimi chat*`;
+    let hasil = `${res.data.result}\n\n*D1CXBOT chat*`;
     conn.sendMessage(id, hasil ,MessageType.text, {quoted: m});
 })
 }
@@ -1428,7 +1428,7 @@ _Ex artinya contoh_͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏�
  「 *LIST MENU* 」  
 
 > *Follow Me On Twitter* 
-${instagram}  
+${twitter}  
 > *Bot aktif selama : ${aktif}*
 
 ╭════•›「 SimSimi 」 
