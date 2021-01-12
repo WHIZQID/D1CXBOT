@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <img alt="D1CXBOT" src ="https://user-images.githubusercontent.com/72728486/102708092-ece61880-42d2-11eb-831b-f3909d67921e.jpg" width="320">
+    <img alt="D1CXBOT" src ="https://1.bp.blogspot.com/-awP86zWgHjs/XSNBrCvsizI/AAAAAAAAIoE/Cia8lDj2VgshjAuqDF_IfbcQVbqqY1o5QCLcBGAs/s1600/Dewa%2B19%2BLaskar%2Bcinta%2B%255Bwww.blogovector.com%255D.png" width="320">
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
 # Hai 👋🏻
@@ -210,9 +210,9 @@ Terakhir scan kode QR
 | Donasi|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6281219700198)
+* [Twitter](https://www.twitter.com/BaLa_DE19WA)
+* [Facebook](https://www.facebook.com/symbi4nerz)
+* My whatsapp bot [Arel Bot](https://wa.me/13132900007)
 
 
 ## Terimakasih untuk
