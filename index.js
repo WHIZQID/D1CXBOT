@@ -352,7 +352,7 @@ conn.sendMessage(id, 'Bot bermasalah ? laporkan fitur error ke owner, ketik .own
 }
  //install
 if (text.includes('.install')){
-conn.sendMessage(id, 'How to install whatsapp bot on android\n*Tutorial* : https://github.com/mrfzvx12/termux-whatsapp-bot',MessageType.text, { quoted: m } );
+conn.sendMessage(id, 'How to install whatsapp bot on android\n*Tutorial* : https://github.com/WHIZQID/D1CXBOT',MessageType.text, { quoted: m } );
 }
  //intro grup
 if (text.includes('.intro')){
