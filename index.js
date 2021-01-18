@@ -1293,7 +1293,7 @@ conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil\n_contoh : .jadw
 }
 if (text.includes(".jadwaltv")){
 const teks = text.replace(/.jadwaltv /, "")
-axios.get(`https://mhankbarbars.herokuapp.com/api/jdtv?ch=${teks}&apiKey=${apibarbar}`).then((res) => {
+axios.get(`https://api-melodicxt.herokuapp.com/api/jadwaltvnow?ch=${teks}&apiKey=${administrator}`).then((res) => {
     conn.sendMessage(id, '[ WAIT ] Menampilkan jadwal tv⏳ silahkan tunggu', MessageType.text, { quoted: m } )
     let hasil = `${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text, { quoted: m } );
