@@ -12,9 +12,9 @@ const speed = require('performance-now');
 
 //Setting
 
-const apivhtear = 'apivhtear';
-const apibarbar = 'apibarbar';
-const tobzkey = 'apitobz';
+const apivhtear = 'Jsieu8287362jshre82';
+const apibarbar = 'IDxO1TFYnKADlX4pxcHa';
+const tobzkey = 'BotWeA';
 const ovo = '082230208677';
 const pulsa = '082230208677';
 const dana = '082230208677';
@@ -25,7 +25,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:D1CXBOT\n' // Nama kamu
             + 'ORG:WHIZQIDS;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=13132900007:+1 313-290-0007\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=6285782003975:+62 857-8200-3975\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
